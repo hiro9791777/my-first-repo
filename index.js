@@ -1,2 +1,2 @@
 console.log('Hel')
-console.log('Git diff 学習中');
+console.log('Git diff 学習中');//
